@@ -26,7 +26,7 @@ Proceed to projection of optical data maps onto the silhouette – for new data 
 
 Select “load existing map” and choose the file “IMG0223-023APDMapProjected” (please unzip this file).
 
-The 3D APD map can be visualized in the bottom right viewing window, and rotated manually by selecting the “Rotate 3D” icon in the top left of the GUI, or automatically by selecting “Play Movie”. Elevation angle and colobar can also be adjusted. Optimal viewing is performed however by selecting “save data” and opening the resulting dataset in Amira for 3D visualization (see methods of manuscript).
+The 3D APD map can be visualized in the bottom right viewing window, and rotated manually by selecting the “Rotate 3D” icon in the top left of the GUI, or automatically by selecting “Play Movie”. Elevation angle and colorbar can also be adjusted. Optimal viewing is performed however by selecting “save data” and opening the resulting dataset in Amira for 3D visualization (see methods of manuscript).
 
 The process can be repeated for activation maps, and phase maps (except for phase movies with last frame set to number of frames of data desired- typically generated 100 frames at a time with 1 frame representing 1 ms).
 
