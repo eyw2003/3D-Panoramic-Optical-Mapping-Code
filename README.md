@@ -24,7 +24,7 @@ Await the appearance of the 3D silhouette in the bottom left view window off the
 
 Proceed to projection of optical data maps onto the silhouette – for new data 2D APD maps calculated from the Rhythm program are utilized but a sample pre-generated example is provided
 
-Select “load existing map” and choose the file “IMG0223-023APDMapProjected” 
+Select “load existing map” and choose the file “IMG0223-023APDMapProjected” (please unzip this file).
 
 The 3D APD map can be visualized in the bottom right viewing window, and rotated manually by selecting the “Rotate 3D” icon in the top left of the GUI, or automatically by selecting “Play Movie”. Elevation angle and colobar can also be adjusted. Optimal viewing is performed however by selecting “save data” and opening the resulting dataset in Amira for 3D visualization (see methods of manuscript).
 
