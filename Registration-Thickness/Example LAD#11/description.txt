@@ -1,0 +1,5 @@
+Example heart files (for a LAD mouse)
+Includes:
+  - segmented CT (prediction_diastole.nii.gz)
+  - POM files (IMG0512Silhouette.mat, IMG0512-011APDMapProjectedv2)
+  - intermediate transformation/registration mat files
