@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Registration-Thickness/Example[[:space:]]LAD\#11/prediction_diastole.nii.gz filter=lfs diff=lfs merge=lfs -text
+Registration-Thickness/Example[[:space:]]LAD\#11/IMG0512-011APDMapProjectedv2 filter=lfs diff=lfs merge=lfs -text
+Registration-Thickness/Example[[:space:]]LAD\#11/IMG0512Silhouette.mat filter=lfs diff=lfs merge=lfs -text
