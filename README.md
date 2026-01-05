@@ -4,3 +4,6 @@ This repository contains MATLAB code to generate 3D panoramic optical mapping (P
 
 Our 3D POM algorithm as described in Melki et al. is detailed in the file "PanoramicOpticalMapping_UserGuidePierre". 
 
+RhythmDevelopment1 contains the modified Rhythm code from the Efimov laboratory required to generate 2D activation, APD, and phase maps. 
+PanoramicImagingGUIv10 contains the 3D panoramic optical mapping code.
+Registration-Thickness contains code to coregister micro-CT and 3D POM data.
